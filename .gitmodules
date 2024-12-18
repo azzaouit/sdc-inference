@@ -1,0 +1,6 @@
+[submodule "libpmu"]
+	path = libpmu
+	url = https://github.com/azzaouit/libpmu.git
+[submodule "hpcg-3.1"]
+	path = hpcg-3.1
+	url = https://github.com/azzaouit/hpcg.git
